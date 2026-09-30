@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Mi nombre es Mauricio
 
-<!--
-**MauroJF/MauroJF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de 2.º curso de Desarrollo de Aplicaciones Web (DAW)** 💻 
 
-Here are some ideas to get you started:
+Interesado en el desarrollo web y en la creación de aplicaciones funcionales e interactivas. Actualmente cursando el segundo año del ciclo formativo de grado superior en Desarrollo de Aplicaciones Web (DAW).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+El contenido de mis repositorios incluye proyectos académicos, prácticas y ejercicios desarrollados durante mi formación. Si tienes alguna duda o sugerencia, no dudes en contactar.
+
+## ⚡ Tecnologías más usadas
+
+### 🚀 Lenguajes y Tecnologías Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## ✉️ Contacto
+
+[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurojfigueroa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MauroJF)
